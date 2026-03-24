@@ -2,6 +2,7 @@
 
 🎓 Estudante de Ciência da Computação  
 👩‍💻 Desenvolvedora Front-end | Estudante de Segurança Cibernética 
+
 ⚙️ Python | Figma | Canva 
 🚀 Em constante evolução  
 
