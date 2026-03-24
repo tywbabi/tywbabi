@@ -35,10 +35,10 @@ Atualmente focada no aprendizado em Segurança Cibernética e Python , buscando 
 ---
 
 ### 🌱 Atualmente aprendendo
-- Estrutura de Dados  
-- Programação em C  
-- Python para automação  
-- Programação Orientada a Objetos (Java)  
+- prototipagem no figma
+- Programação em Python   
+- Front-end 
+- Segurança Cibernética 
 
 ---
 
