@@ -26,9 +26,22 @@ Atualmente focada no aprendizado em Segurança Cibernética e Python , buscando 
 
 
 ---
+## 🌐 Conecte-se comigo
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tywbabi&show_icons=true&theme=radical)
+<p align="left">
+  <a href="https://www.linkedin.com/in/beatriz-mota-49b5b1362/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/__bea.exe/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/_Obassy_">
+    <img src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
 
 ---
 
