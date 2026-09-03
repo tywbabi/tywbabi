@@ -38,8 +38,8 @@ Atualmente focada no aprendizado em Segurança Cibernética e Python , buscando 
   </a>
 
   <a href="https://x.com/_Obassy_">
-    <img src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 </p>
 
